@@ -1,35 +1,29 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+# Presentación personal de programación con objetos I
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+¡Buenas! <br>
+Mi nombre es **Lautaro**, aunque prefiero que usen mi apodo de internet, **Daz**, tengo 23 años, soy estudiante de la carrera de *Tecnicatura en programación* y por fin estoy oficialmente en mi segundo año de la carrera. Si bien llevo ya unos años estudiando, mis conocimientos en lenguajes de programación son bastantes reducidos, pero busco esforzarme constantemente para cubrir esto.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+> No se me da bien socializar, por favor ténganme paciencia.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+![bocchi](https://github.com/user-attachments/assets/4e701923-2cbe-41aa-9364-4ce4149e24c5)
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+## Mis gustos
+- Videojuegos :video_game:
+- Anime :ramen:
+- Memes :gorilla:
+- Música :headphones:
+- Internet :desktop_computer:
+- Edición :clapper:
+- Escritura :pencil2:
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+![Yume Nikki Dance](https://github.com/user-attachments/assets/6beb089b-68d3-4d39-ae3e-a28102207920)
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+## Datos a tener en cuenta
+1. Como dije previamente me cuesta socializar, no es que los mire feo, así es mi cara.
+2. Suelo dejar todo a último momento cuando trabajo solo, en grupos es todo lo contrario, no se preocupen.
+3. Lo que no pregunto en clase lo investigo por mi cuenta e incluso busco más.
+4. Texto de relleno.
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+![dark souls](https://github.com/user-attachments/assets/180953a3-8ffe-45ad-bde4-915c228799c7)
