@@ -27,3 +27,5 @@ Mi nombre es **Lautaro**, aunque prefiero que usen mi apodo de internet, **Daz**
 4. Texto de relleno.
 
 ![dark souls](https://github.com/user-attachments/assets/180953a3-8ffe-45ad-bde4-915c228799c7)
+
+> ---console actualization---
